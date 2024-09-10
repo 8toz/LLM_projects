@@ -2,6 +2,7 @@
 LearningNotebooks/
 data/
 chroma/
+env_llm/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
